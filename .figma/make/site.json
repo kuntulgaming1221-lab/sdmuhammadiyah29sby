@@ -1,0 +1,10 @@
+{
+  "description": "Situs SD Muhammadiyah 29 Surabaya menyajikan informasi sekolah, program pendidikan, kegiatan, dan layanan bagi siswa, orang tua, serta masyarakat.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
